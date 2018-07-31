@@ -1,3 +1,5 @@
 # _aiotests_
 
-Just a reference to https://github.com/mgeisert/aiotests.
+Test programs for Cygwin's POSIX Asynchronous I/O feature.
+
+This listing is just a reference to https://github.com/mgeisert/aiotests.
